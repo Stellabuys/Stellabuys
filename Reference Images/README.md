@@ -1,0 +1,21 @@
+# Mom's Med Box — App Screenshot Reference Images
+
+Generated via the Higgsfield MCP server, model **gpt_image_2**, quality **high**, resolution **2k**, aspect ratio **9:16** (rendered at 1520×2688px — true iPhone vertical mockup proportions). Every prompt was built from the branding system in `../Documentation/Product Spec.md` (terracotta/sage/linen/moss/honey/ember palette, warm editorial serif headlines, Atkinson-Hyperlegible-style Simple Mode type, soft rounded iconography, no stock photography) so all 10 renders read as one consistent app.
+
+**A note on these files:** this session's network policy blocks direct downloads from the image host's CDN domain into the repo, so the binaries below are not committed here — each links to the full-quality hosted PNG instead. Download the 10 files from the links below and drop them into this folder to complete the set locally.
+
+| # | Screen | Feature / "Magic Moment" Highlighted | Image |
+|---|---|---|---|
+| 01 | Onboarding — "Who Are You Caring For?" | Relationship-based personalization (§3.1 of spec) that makes every later screen feel personal, not generic | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_447e0bf3-1859-4b1c-9d8d-d65b0f0e3dd9.png) |
+| 02 | Photo-Scan Medication Import | OCR pill-bottle scan that auto-populates the med list — removes the biggest setup-friction point in the category (§3.1) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_b74bbb8d-cd70-4f83-8b7f-3978bccafe1e.png) |
+| 03 | Home Dashboard (adult-child view) | Real-time "Taken / Not Yet / Missed" status + Care Circle strip — the core utility loop (§2.1, §3.2) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_65a57421-c7d4-45ce-bd05-fc0adafc5532.png) |
+| 04 | **Weekly Recap / Share Card** | The primary viral mechanic — Wrapped/Wordle-style shareable card built for the "invisible caregiver labor" content genre (§2.3, §3.5) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_67fb3adb-f9b7-4d88-9f9b-e566feae3834.png) |
+| 05 | Family Care Circle | Shared caregiver roster, task assignment, and activity feed — the category-defining feature (§2.2, §3.4) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_6ab2a997-4a5b-4905-ad21-0036bd46a83b.png) |
+| 06 | Simple Mode — "Are You Okay?" Check-In | The parent-facing giant-button daily wellness check-in, separate from meds (§2.4, §3.6) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_3d160c37-fc3a-413f-866c-5429cf3724f8.png) |
+| 07 | Escalation Chain Settings | The peace-of-mind feature: configurable contact chain if a check-in/dose is missed (§2.4, §3.6) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144417_fad9f6bf-4e0d-4693-9b6e-9e33e2b514e4.png) |
+| 08 | Simple Mode Home (parent device) | Radically minimal, large-tap-target medication cards for the parent's own phone (§2.6, §3.7) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_5edbcb05-327b-4917-b69f-589612e48aea.png) |
+| 09 | Caregiver Community Feed | "You're not alone" — shared recaps and tips seeded from the overperforming caregiver-content genre (§2.5, §3.8) | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_26a2bf8d-cb25-4084-ac7a-c6dee5f41f85.png) |
+| 10 | **Lock-Screen Relief Notification** | The 2am peace-of-mind magic moment — "Mom took her morning meds ✓" — the emotional payoff the whole product sells | [Download](https://d8j0ntlcm91z4.cloudfront.net/user_3CP0wUFMRAC1ydecHqNmnNeJO0S/hf_20260826_144416_58685c75-84a0-4ca8-88bc-38d11ac12387.png) |
+
+## Why these 10
+Screens 1–3, 5, 7–8 cover the core functional walkthrough (onboarding → setup → daily use → care coordination → safety). Screens 2, 4, 6, and 10 are the four "magic moments" most likely to convert into organic and paid social creative: the frictionless photo-scan setup, the Wrapped-style shareable recap card, the radically simple parent check-in, and the calm relief notification that sells the product's entire emotional promise.
